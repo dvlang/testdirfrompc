@@ -4,6 +4,16 @@
 #include <string.h>
 
 using namespace std;
+//	adding some comments 
+//
+//
+//
+//
+//
+// ending some comments
+
+
+
 
 
 #include "classVectorPrimitives.h"
