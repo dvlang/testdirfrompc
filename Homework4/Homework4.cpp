@@ -9,8 +9,9 @@ using namespace std;
 //
 // messing around with comments again
 //
-//adding some more comments.  this time for real.
-// lots and lots of comments
+//going to try to fork off here
+//ok these comments, i want to keep with old in testbranch3
+//
 // ending some comments
 
 
